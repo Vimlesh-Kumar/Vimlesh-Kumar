@@ -110,16 +110,16 @@ graph TD
 <p align="center">
   <!-- GitHub Stats (Dark/Light support) -->
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Vimlesh-Kumar&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=Vimlesh-Kumar&show_icons=true&theme=default&hide_border=true" />
-    <img src="https://github-readme-stats.vercel.app/api?username=Vimlesh-Kumar&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub Stats" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-anuraghazra1.vercel.app/api?username=Vimlesh-Kumar&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-anuraghazra1.vercel.app/api?username=Vimlesh-Kumar&show_icons=true&theme=default&hide_border=true" />
+    <img src="https://github-readme-stats-anuraghazra1.vercel.app/api?username=Vimlesh-Kumar&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub Stats" />
   </picture>
   
   <!-- Top Langs (Dark/Light support) -->
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Vimlesh-Kumar&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Vimlesh-Kumar&layout=compact&theme=default&hide_border=true" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vimlesh-Kumar&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Langs" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-anuraghazra1.vercel.app/api/top-langs/?username=Vimlesh-Kumar&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-anuraghazra1.vercel.app/api/top-langs/?username=Vimlesh-Kumar&layout=compact&theme=default&hide_border=true" />
+    <img src="https://github-readme-stats-anuraghazra1.vercel.app/api/top-langs/?username=Vimlesh-Kumar&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Langs" />
   </picture>
 </p>
 
@@ -137,23 +137,18 @@ graph TD
 <p align="center">
   <!-- Trophies -->
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy.vercel.app/?username=Vimlesh-Kumar&theme=radical&no-frame=true&no-bg=true&margin-w=15&row=1" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-profile-trophy.vercel.app/?username=Vimlesh-Kumar&theme=flat&no-frame=true&no-bg=true&margin-w=15&row=1" />
-    <img src="https://github-profile-trophy.vercel.app/?username=Vimlesh-Kumar&theme=radical&no-frame=true&no-bg=true&margin-w=15&row=1" alt="Trophies" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy-ryo-ma.vercel.app/?username=Vimlesh-Kumar&theme=radical&no-frame=true&no-bg=true&margin-w=15&row=1" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-profile-trophy-ryo-ma.vercel.app/?username=Vimlesh-Kumar&theme=flat&no-frame=true&no-bg=true&margin-w=15&row=1" />
+    <img src="https://github-profile-trophy-ryo-ma.vercel.app/?username=Vimlesh-Kumar&theme=radical&no-frame=true&no-bg=true&margin-w=15&row=1" alt="Trophies" />
   </picture>
 </p>
 
 ### ⏱ WakaTime Development Activity
 
-_(Requires valid WakaTime access - ensure you have connected it in your GitHub settings!)_
+_(Auto-updated daily via GitHub Actions)_
 
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/wakatime?username=Vimlesh-Kumar&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/wakatime?username=Vimlesh-Kumar&layout=compact&theme=default&hide_border=true" />
-    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Vimlesh-Kumar&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="WakaTime Stats" />
-  </picture>
-</p>
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 ---
 
