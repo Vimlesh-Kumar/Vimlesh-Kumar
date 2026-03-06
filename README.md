@@ -148,6 +148,63 @@ graph TD
 _(Auto-updated daily via GitHub Actions)_
 
 <!--START_SECTION:waka-->
+![Profile Views](http://img.shields.io/badge/Profile%20Views-9-blue?style=flat)
+
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-862.08%20thousand%20lines%20of%20code-blue?style=flat)
+
+**🐱 My GitHub Data** 
+
+> 📦 32.5 kB Used in GitHub's Storage 
+ > 
+> 🏆 21 Contributions in the Year 2026
+ > 
+> 💼 Opted to Hire
+ > 
+> 📜 40 Public Repositories 
+ > 
+> 🔑 11 Private Repositories 
+ > 
+📅 **I'm Most Productive on Tuesday** 
+
+```text
+Monday                   27 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.61 % 
+Tuesday                  56 commits          █████░░░░░░░░░░░░░░░░░░░░   19.93 % 
+Wednesday                44 commits          ████░░░░░░░░░░░░░░░░░░░░░   15.66 % 
+Thursday                 54 commits          █████░░░░░░░░░░░░░░░░░░░░   19.22 % 
+Friday                   36 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.81 % 
+Saturday                 17 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.05 % 
+Sunday                   47 commits          ████░░░░░░░░░░░░░░░░░░░░░   16.73 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+```
+
+**I Mostly Code in JavaScript** 
+
+```text
+JavaScript               8 repos             ███████░░░░░░░░░░░░░░░░░░   29.63 % 
+Vue                      7 repos             ██████░░░░░░░░░░░░░░░░░░░   25.93 % 
+TypeScript               5 repos             █████░░░░░░░░░░░░░░░░░░░░   18.52 % 
+HTML                     4 repos             ████░░░░░░░░░░░░░░░░░░░░░   14.81 % 
+C++                      1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.70 % 
+```
+
+
+
+**Timeline**
+
+![Lines of Code chart](https://raw.githubusercontent.com/Vimlesh-Kumar/Vimlesh-Kumar/main/assets/bar_graph.png)
+
+
+ Last Updated on 06/03/2026 16:54:02 UTC
 <!--END_SECTION:waka-->
 
 ---
