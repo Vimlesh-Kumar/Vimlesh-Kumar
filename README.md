@@ -183,15 +183,15 @@ Sunday                   89 commits          ███░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-TypeScript               2 hrs 17 mins       █████████░░░░░░░░░░░░░░░░   37.70 % 
-JavaScript               1 hr 30 mins        ██████░░░░░░░░░░░░░░░░░░░   24.83 % 
-Bash                     52 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.34 % 
-JSON                     34 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.37 % 
-Git Config               12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.53 % 
+TypeScript               2 hrs 8 mins        ██████████░░░░░░░░░░░░░░░   39.43 % 
+JavaScript               1 hr 20 mins        ██████░░░░░░░░░░░░░░░░░░░   24.49 % 
+Bash                     45 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.86 % 
+JSON                     27 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.53 % 
+CSS                      12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.94 % 
 
 🔥 Editors: 
-Antigravity              4 hrs 39 mins       ███████████████████░░░░░░   76.42 % 
-VS Code                  1 hr 26 mins        ██████░░░░░░░░░░░░░░░░░░░   23.58 % 
+Antigravity              4 hrs               ██████████████████░░░░░░░   73.61 % 
+VS Code                  1 hr 26 mins        ███████░░░░░░░░░░░░░░░░░░   26.39 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -211,7 +211,7 @@ C++                      1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Vimlesh-Kumar/Vimlesh-Kumar/main/assets/bar_graph.png)
 
 
- Last Updated on 01/04/2026 19:35:40 UTC
+ Last Updated on 02/04/2026 19:28:51 UTC
 <!--END_SECTION:waka-->
 
 ---
