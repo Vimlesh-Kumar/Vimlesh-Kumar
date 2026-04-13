@@ -183,15 +183,10 @@ Sunday                   89 commits          ███░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Markdown                 14 mins             ███████████████████████░░   91.97 % 
-JSON                     0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   03.53 % 
-JavaScript               0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   02.53 % 
-YAML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.61 % 
-Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.20 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  14 mins             ███████████████████████░░   92.54 % 
-Antigravity              1 min               ██░░░░░░░░░░░░░░░░░░░░░░░   07.46 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in JavaScript** 
@@ -211,7 +206,7 @@ C++                      1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Vimlesh-Kumar/Vimlesh-Kumar/main/assets/bar_graph.png)
 
 
- Last Updated on 12/04/2026 19:11:44 UTC
+ Last Updated on 13/04/2026 19:45:56 UTC
 <!--END_SECTION:waka-->
 
 ---
