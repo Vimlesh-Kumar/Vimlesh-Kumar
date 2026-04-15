@@ -192,11 +192,11 @@ No Activity Tracked This Week
 **I Mostly Code in JavaScript** 
 
 ```text
-JavaScript               8 repos             ███████░░░░░░░░░░░░░░░░░░   28.57 % 
-Vue                      7 repos             ██████░░░░░░░░░░░░░░░░░░░   25.00 % 
-TypeScript               6 repos             █████░░░░░░░░░░░░░░░░░░░░   21.43 % 
-HTML                     4 repos             ████░░░░░░░░░░░░░░░░░░░░░   14.29 % 
-C++                      1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.57 % 
+JavaScript               8 repos             ███████░░░░░░░░░░░░░░░░░░   27.59 % 
+TypeScript               7 repos             ██████░░░░░░░░░░░░░░░░░░░   24.14 % 
+Vue                      7 repos             ██████░░░░░░░░░░░░░░░░░░░   24.14 % 
+HTML                     4 repos             ███░░░░░░░░░░░░░░░░░░░░░░   13.79 % 
+C++                      1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.45 % 
 ```
 
 
@@ -206,7 +206,7 @@ C++                      1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Vimlesh-Kumar/Vimlesh-Kumar/main/assets/bar_graph.png)
 
 
- Last Updated on 14/04/2026 19:47:36 UTC
+ Last Updated on 15/04/2026 19:48:14 UTC
 <!--END_SECTION:waka-->
 
 ---
