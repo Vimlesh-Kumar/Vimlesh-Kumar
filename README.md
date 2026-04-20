@@ -148,7 +148,7 @@ graph TD
 _(Auto-updated daily via GitHub Actions)_
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-24%20hrs%202%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-25%20hrs%2030%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue?style=flat)
 
@@ -183,15 +183,15 @@ Sunday                   93 commits          ███░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Vue                      59 mins             ████████░░░░░░░░░░░░░░░░░   30.70 % 
-TypeScript               50 mins             ███████░░░░░░░░░░░░░░░░░░   26.13 % 
-Markdown                 41 mins             █████░░░░░░░░░░░░░░░░░░░░   21.06 % 
-JSON                     19 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.09 % 
-YAML                     12 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.63 % 
+TypeScript               1 hr 51 mins        ██████████░░░░░░░░░░░░░░░   39.61 % 
+Vue                      1 hr 4 mins         ██████░░░░░░░░░░░░░░░░░░░   22.94 % 
+Markdown                 41 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.85 % 
+JSON                     28 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.18 % 
+YAML                     12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.57 % 
 
 🔥 Editors: 
-Antigravity              3 hrs 7 mins        ████████████████████████░   96.40 % 
-VS Code                  7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.60 % 
+Antigravity              4 hrs 35 mins       ████████████████████████░   97.52 % 
+VS Code                  7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.48 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -211,7 +211,7 @@ C++                      1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Vimlesh-Kumar/Vimlesh-Kumar/main/assets/bar_graph.png)
 
 
- Last Updated on 19/04/2026 19:12:52 UTC
+ Last Updated on 20/04/2026 19:39:00 UTC
 <!--END_SECTION:waka-->
 
 ---
