@@ -183,14 +183,14 @@ Sunday                   93 commits          ███░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-TypeScript               1 hr 21 mins        ███████████░░░░░░░░░░░░░░   42.43 % 
-Vue                      1 hr 4 mins         ████████░░░░░░░░░░░░░░░░░   33.89 % 
-JSON                     23 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.25 % 
-Java Properties          8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.24 % 
-CSS                      5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.94 % 
+TypeScript               1 hr 1 min          █████████████████░░░░░░░░   69.55 % 
+JSON                     9 mins              ███░░░░░░░░░░░░░░░░░░░░░░   10.37 % 
+Java Properties          8 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   09.23 % 
+Vue                      5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.72 % 
+JavaScript               3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.07 % 
 
 🔥 Editors: 
-Antigravity              3 hrs 11 mins       █████████████████████████   100.00 % 
+Antigravity              1 hr 27 mins        █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -210,7 +210,7 @@ C++                      1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Vimlesh-Kumar/Vimlesh-Kumar/main/assets/bar_graph.png)
 
 
- Last Updated on 25/04/2026 19:14:31 UTC
+ Last Updated on 26/04/2026 19:25:53 UTC
 <!--END_SECTION:waka-->
 
 ---
