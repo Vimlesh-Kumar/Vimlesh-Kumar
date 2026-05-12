@@ -148,34 +148,34 @@ graph TD
 _(Auto-updated daily via GitHub Actions)_
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-25%20hrs%2035%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-25%20hrs%2041%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.44%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.46%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 43.5 kB Used in GitHub's Storage 
+> 📦 43.6 kB Used in GitHub's Storage 
  > 
-> 🏆 202 Contributions in the Year 2026
+> 🏆 206 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
-> 📜 46 Public Repositories 
+> 📜 48 Public Repositories 
  > 
 > 🔑 9 Private Repositories 
  > 
 📅 **I'm Most Productive on Saturday** 
 
 ```text
-Monday                   59 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.03 % 
-Tuesday                  121 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.46 % 
-Wednesday                76 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.34 % 
-Thursday                 73 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.93 % 
-Friday                   79 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.75 % 
-Saturday                 234 commits         ████████░░░░░░░░░░░░░░░░░   31.84 % 
-Sunday                   93 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.65 % 
+Monday                   59 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.01 % 
+Tuesday                  123 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.69 % 
+Wednesday                76 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.31 % 
+Thursday                 73 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.91 % 
+Friday                   79 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.72 % 
+Saturday                 234 commits         ████████░░░░░░░░░░░░░░░░░   31.75 % 
+Sunday                   93 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.62 % 
 ```
 
 
@@ -189,14 +189,14 @@ No Activity Tracked This Week
 No Activity Tracked This Week
 ```
 
-**I Mostly Code in JavaScript** 
+**I Mostly Code in Vue** 
 
 ```text
-JavaScript               8 repos             ███████░░░░░░░░░░░░░░░░░░   27.59 % 
-TypeScript               7 repos             ██████░░░░░░░░░░░░░░░░░░░   24.14 % 
-Vue                      7 repos             ██████░░░░░░░░░░░░░░░░░░░   24.14 % 
-HTML                     4 repos             ███░░░░░░░░░░░░░░░░░░░░░░   13.79 % 
-C++                      1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.45 % 
+Vue                      9 repos             ███████░░░░░░░░░░░░░░░░░░   29.03 % 
+JavaScript               8 repos             ██████░░░░░░░░░░░░░░░░░░░   25.81 % 
+TypeScript               7 repos             ██████░░░░░░░░░░░░░░░░░░░   22.58 % 
+HTML                     4 repos             ███░░░░░░░░░░░░░░░░░░░░░░   12.90 % 
+C++                      1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.23 % 
 ```
 
 
@@ -206,7 +206,7 @@ C++                      1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Vimlesh-Kumar/Vimlesh-Kumar/main/assets/bar_graph.png)
 
 
- Last Updated on 11/05/2026 20:11:33 UTC
+ Last Updated on 12/05/2026 20:13:24 UTC
 <!--END_SECTION:waka-->
 
 ---
