@@ -183,12 +183,10 @@ Sunday                   93 commits          ███░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-TypeScript               3 mins              ████████████████░░░░░░░░░   63.26 % 
-JavaScript               2 mins              █████████░░░░░░░░░░░░░░░░   36.11 % 
-Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.64 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-Antigravity              6 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in Vue** 
@@ -208,7 +206,7 @@ C++                      1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Vimlesh-Kumar/Vimlesh-Kumar/main/assets/bar_graph.png)
 
 
- Last Updated on 19/05/2026 20:10:46 UTC
+ Last Updated on 20/05/2026 20:33:11 UTC
 <!--END_SECTION:waka-->
 
 ---
