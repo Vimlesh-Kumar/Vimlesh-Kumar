@@ -148,8 +148,6 @@ graph TD
 _(Auto-updated daily via GitHub Actions)_
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-25%20hrs%2051%20mins-blue?style=flat)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.46%20million%20lines%20of%20code-blue?style=flat)
@@ -166,29 +164,6 @@ _(Auto-updated daily via GitHub Actions)_
  > 
 > 🔑 9 Private Repositories 
  > 
-📅 **I'm Most Productive on Saturday** 
-
-```text
-Monday                   59 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.01 % 
-Tuesday                  123 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.69 % 
-Wednesday                76 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.31 % 
-Thursday                 73 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.91 % 
-Friday                   79 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.72 % 
-Saturday                 234 commits         ████████░░░░░░░░░░░░░░░░░   31.75 % 
-Sunday                   93 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.62 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-```
-
 **I Mostly Code in Vue** 
 
 ```text
@@ -206,7 +181,7 @@ C++                      1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Vimlesh-Kumar/Vimlesh-Kumar/main/assets/bar_graph.png)
 
 
- Last Updated on 06/06/2026 19:51:36 UTC
+ Last Updated on 07/06/2026 19:53:25 UTC
 <!--END_SECTION:waka-->
 
 ---
