@@ -158,24 +158,24 @@ _(Auto-updated daily via GitHub Actions)_
 
 > 📦 43.7 kB Used in GitHub's Storage 
  > 
-> 🏆 215 Contributions in the Year 2026
+> 🏆 219 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
-> 📜 48 Public Repositories 
+> 📜 49 Public Repositories 
  > 
 > 🔑 9 Private Repositories 
  > 
 📅 **I'm Most Productive on Saturday** 
 
 ```text
-Monday                   59 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.84 % 
-Tuesday                  123 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.33 % 
-Wednesday                76 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.09 % 
-Thursday                 75 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.96 % 
-Friday                   81 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.76 % 
-Saturday                 246 commits         ████████░░░░░░░░░░░░░░░░░   32.67 % 
-Sunday                   93 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.35 % 
+Monday                   59 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.81 % 
+Tuesday                  123 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.29 % 
+Wednesday                78 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.33 % 
+Thursday                 75 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.93 % 
+Friday                   81 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.73 % 
+Saturday                 246 commits         ████████░░░░░░░░░░░░░░░░░   32.58 % 
+Sunday                   93 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.32 % 
 ```
 
 
@@ -193,14 +193,14 @@ Jest Snapshot            2 mins              ░░░░░░░░░░░�
 VS Code                  1 hr 54 mins        █████████████████████████   100.00 % 
 ```
 
-**I Mostly Code in Vue** 
+**I Mostly Code in JavaScript** 
 
 ```text
-Vue                      9 repos             ███████░░░░░░░░░░░░░░░░░░   29.03 % 
-JavaScript               8 repos             ██████░░░░░░░░░░░░░░░░░░░   25.81 % 
-TypeScript               7 repos             ██████░░░░░░░░░░░░░░░░░░░   22.58 % 
-HTML                     4 repos             ███░░░░░░░░░░░░░░░░░░░░░░   12.90 % 
-C++                      1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.23 % 
+JavaScript               9 repos             ███████░░░░░░░░░░░░░░░░░░   28.12 % 
+Vue                      9 repos             ███████░░░░░░░░░░░░░░░░░░   28.12 % 
+TypeScript               7 repos             █████░░░░░░░░░░░░░░░░░░░░   21.88 % 
+HTML                     4 repos             ███░░░░░░░░░░░░░░░░░░░░░░   12.50 % 
+C++                      1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.12 % 
 ```
 
 
@@ -210,7 +210,7 @@ C++                      1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Vimlesh-Kumar/Vimlesh-Kumar/main/assets/bar_graph.png)
 
 
- Last Updated on 16/06/2026 21:24:42 UTC
+ Last Updated on 17/06/2026 20:34:04 UTC
 <!--END_SECTION:waka-->
 
 ---
