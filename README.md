@@ -148,7 +148,7 @@ graph TD
 _(Auto-updated daily via GitHub Actions)_
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-31%20hrs%2018%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-33%20hrs%204%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -183,15 +183,16 @@ Sunday                   101 commits         ███░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-JavaScript               28 mins             ██████████████░░░░░░░░░░░   55.56 % 
-Markdown                 10 mins             █████░░░░░░░░░░░░░░░░░░░░   19.99 % 
-TypeScript               9 mins              █████░░░░░░░░░░░░░░░░░░░░   18.78 % 
-JSON                     2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.67 % 
+JavaScript               1 hr 18 mins        ████████████░░░░░░░░░░░░░   49.55 % 
+TypeScript               36 mins             ██████░░░░░░░░░░░░░░░░░░░   23.38 % 
+Markdown                 16 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.27 % 
+Vue                      9 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.20 % 
+Python                   7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.94 % 
 
 🔥 Editors: 
-Antigravity IDE          39 mins             ███████████████████░░░░░░   75.84 % 
-Claude Code              9 mins              ████░░░░░░░░░░░░░░░░░░░░░   17.76 % 
-VS Code                  3 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.41 % 
+Claude Code              1 hr 23 mins        █████████████░░░░░░░░░░░░   52.79 % 
+Antigravity IDE          41 mins             ███████░░░░░░░░░░░░░░░░░░   26.52 % 
+VS Code                  32 mins             █████░░░░░░░░░░░░░░░░░░░░   20.68 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -211,7 +212,7 @@ C++                      1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Vimlesh-Kumar/Vimlesh-Kumar/main/assets/bar_graph.png)
 
 
- Last Updated on 09/07/2026 20:14:14 UTC
+ Last Updated on 10/07/2026 19:57:00 UTC
 <!--END_SECTION:waka-->
 
 ---
