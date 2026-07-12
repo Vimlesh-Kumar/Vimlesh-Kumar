@@ -150,7 +150,7 @@ _(Auto-updated daily via GitHub Actions)_
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-33%20hrs%204%20mins-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.49%20million%20lines%20of%20code-blue?style=flat)
 
@@ -183,16 +183,16 @@ Sunday                   101 commits         ███░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-JavaScript               1 hr 18 mins        ████████████░░░░░░░░░░░░░   49.55 % 
-TypeScript               36 mins             ██████░░░░░░░░░░░░░░░░░░░   23.38 % 
-Markdown                 16 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.27 % 
-Vue                      9 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.20 % 
-Python                   7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.94 % 
+JavaScript               49 mins             ███████████░░░░░░░░░░░░░░   42.71 % 
+TypeScript               36 mins             ████████░░░░░░░░░░░░░░░░░   31.73 % 
+Vue                      9 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   08.45 % 
+Python                   7 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.73 % 
+Markdown                 5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.08 % 
 
 🔥 Editors: 
-Claude Code              1 hr 23 mins        █████████████░░░░░░░░░░░░   52.79 % 
-Antigravity IDE          41 mins             ███████░░░░░░░░░░░░░░░░░░   26.52 % 
-VS Code                  32 mins             █████░░░░░░░░░░░░░░░░░░░░   20.68 % 
+Claude Code              1 hr 23 mins        ██████████████████░░░░░░░   71.96 % 
+VS Code                  29 mins             ██████░░░░░░░░░░░░░░░░░░░   25.78 % 
+Antigravity IDE          2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.26 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -212,7 +212,7 @@ C++                      1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Vimlesh-Kumar/Vimlesh-Kumar/main/assets/bar_graph.png)
 
 
- Last Updated on 11/07/2026 19:38:30 UTC
+ Last Updated on 12/07/2026 19:36:46 UTC
 <!--END_SECTION:waka-->
 
 ---
