@@ -148,7 +148,7 @@ graph TD
 _(Auto-updated daily via GitHub Actions)_
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-34%20hrs%2026%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-34%20hrs%2056%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue?style=flat)
 
@@ -166,6 +166,34 @@ _(Auto-updated daily via GitHub Actions)_
  > 
 > 🔑 9 Private Repositories 
  > 
+📅 **I'm Most Productive on Saturday** 
+
+```text
+Monday                   65 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.29 % 
+Tuesday                  126 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.07 % 
+Wednesday                77 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.82 % 
+Thursday                 77 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.82 % 
+Friday                   83 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.59 % 
+Saturday                 255 commits         ████████░░░░░░░░░░░░░░░░░   32.53 % 
+Sunday                   101 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.88 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+💬 Programming Languages: 
+TOML                     25 mins             ██████░░░░░░░░░░░░░░░░░░░   22.45 % 
+Markdown                 23 mins             █████░░░░░░░░░░░░░░░░░░░░   20.73 % 
+HTML                     12 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.36 % 
+JSON                     11 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.28 % 
+Git Config               9 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   08.83 % 
+
+🔥 Editors: 
+Claude Code              1 hr 29 mins        ████████████████████░░░░░   79.58 % 
+VS Code                  22 mins             █████░░░░░░░░░░░░░░░░░░░░   20.42 % 
+```
+
 **I Mostly Code in JavaScript** 
 
 ```text
@@ -183,7 +211,7 @@ C++                      1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Vimlesh-Kumar/Vimlesh-Kumar/main/assets/bar_graph.png)
 
 
- Last Updated on 16/07/2026 19:38:31 UTC
+ Last Updated on 17/07/2026 19:38:16 UTC
 <!--END_SECTION:waka-->
 
 ---
