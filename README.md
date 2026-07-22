@@ -183,16 +183,16 @@ Sunday                   117 commits         ████░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Vue                      2 hrs 39 mins       ████████░░░░░░░░░░░░░░░░░   32.37 % 
-JavaScript               1 hr 41 mins        █████░░░░░░░░░░░░░░░░░░░░   20.63 % 
-Markdown                 1 hr 36 mins        █████░░░░░░░░░░░░░░░░░░░░   19.52 % 
-JSON                     32 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.53 % 
-TOML                     25 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.10 % 
+Vue                      2 hrs 39 mins       ████████░░░░░░░░░░░░░░░░░   33.09 % 
+JavaScript               1 hr 35 mins        █████░░░░░░░░░░░░░░░░░░░░   19.93 % 
+Markdown                 1 hr 35 mins        █████░░░░░░░░░░░░░░░░░░░░   19.74 % 
+JSON                     32 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.67 % 
+TOML                     25 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.22 % 
 
 🔥 Editors: 
-Claude Code              3 hrs 56 mins       ████████████░░░░░░░░░░░░░   48.03 % 
-Antigravity IDE          3 hrs 37 mins       ███████████░░░░░░░░░░░░░░   44.15 % 
-VS Code                  38 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.82 % 
+Claude Code              3 hrs 50 mins       ████████████░░░░░░░░░░░░░   47.84 % 
+Antigravity IDE          3 hrs 37 mins       ███████████░░░░░░░░░░░░░░   45.14 % 
+VS Code                  33 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.02 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -212,7 +212,7 @@ C++                      1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Vimlesh-Kumar/Vimlesh-Kumar/main/assets/bar_graph.png)
 
 
- Last Updated on 21/07/2026 19:58:18 UTC
+ Last Updated on 22/07/2026 19:51:26 UTC
 <!--END_SECTION:waka-->
 
 ---
