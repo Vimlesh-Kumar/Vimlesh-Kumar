@@ -148,8 +148,6 @@ graph TD
 _(Auto-updated daily via GitHub Actions)_
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-41%20hrs%2016%20mins-blue?style=flat)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.10%20million%20lines%20of%20code-blue?style=flat)
@@ -166,35 +164,6 @@ _(Auto-updated daily via GitHub Actions)_
  > 
 > 🔑 9 Private Repositories 
  > 
-📅 **I'm Most Productive on Saturday** 
-
-```text
-Monday                   56 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.57 % 
-Tuesday                  104 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.05 % 
-Wednesday                67 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.05 % 
-Thursday                 67 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.05 % 
-Friday                   69 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.32 % 
-Saturday                 260 commits         █████████░░░░░░░░░░░░░░░░   35.14 % 
-Sunday                   117 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.81 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-💬 Programming Languages: 
-Vue                      2 hrs 39 mins       ████████░░░░░░░░░░░░░░░░░   33.09 % 
-JavaScript               1 hr 35 mins        █████░░░░░░░░░░░░░░░░░░░░   19.93 % 
-Markdown                 1 hr 35 mins        █████░░░░░░░░░░░░░░░░░░░░   19.74 % 
-JSON                     32 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.67 % 
-TOML                     25 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.22 % 
-
-🔥 Editors: 
-Claude Code              3 hrs 50 mins       ████████████░░░░░░░░░░░░░   47.84 % 
-Antigravity IDE          3 hrs 37 mins       ███████████░░░░░░░░░░░░░░   45.14 % 
-VS Code                  33 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.02 % 
-```
-
 **I Mostly Code in JavaScript** 
 
 ```text
@@ -212,7 +181,7 @@ C++                      1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Vimlesh-Kumar/Vimlesh-Kumar/main/assets/bar_graph.png)
 
 
- Last Updated on 22/07/2026 19:51:26 UTC
+ Last Updated on 23/07/2026 19:54:04 UTC
 <!--END_SECTION:waka-->
 
 ---
