@@ -148,7 +148,9 @@ graph TD
 _(Auto-updated daily via GitHub Actions)_
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-43%20hrs%206%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-44%20hrs%2027%20mins-blue?style=flat)
+
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-22%20hrs%2038%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -183,16 +185,37 @@ Sunday                   117 commits         ████░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Vue                      1 hr 22 mins        ████████░░░░░░░░░░░░░░░░░   30.48 % 
-JavaScript               1 hr 17 mins        ███████░░░░░░░░░░░░░░░░░░   28.73 % 
-Markdown                 1 hr 7 mins         ██████░░░░░░░░░░░░░░░░░░░   24.90 % 
-JSON                     20 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.49 % 
-TypeScript               13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.06 % 
+Vue                      38 mins             ████████░░░░░░░░░░░░░░░░░   32.70 % 
+JavaScript               36 mins             ████████░░░░░░░░░░░░░░░░░   30.41 % 
+TypeScript               13 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.46 % 
+Markdown                 13 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.03 % 
+JSON                     7 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.49 % 
 
 🔥 Editors: 
-Antigravity IDE          3 hrs 37 mins       ████████████████████░░░░░   80.76 % 
-Claude Code              38 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.13 % 
-VS Code                  13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.11 % 
+Claude Code              1 hr 52 mins        ████████████████████████░   94.38 % 
+VS Code                  6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.62 % 
+```
+
+🤖 **AI Coding This Week** 
+
+```text
+⏱ AI Coding Time: 1 hr 56 mins (98.31%)
+
+✍️ 1,923 lines written by AI, 0 lines written by hand (100.0% AI-written)
+
+🔤 73,504,577 Input Tokens, 229,966 Output Tokens
+
+💵 $373.27 Estimated AI Cost This Week
+
+🧠 2 AI Sessions, 9 AI Prompts
+
+Opus                     3,447 lines         █████████████████████████   100.00 % 
+
+🔎 AI Coding Insights:
+🤖 AI-Driven — 100.0% of written lines came from AI
+📝 Concise Prompter — average 475 characters per prompt
+🔁 Iterative Prompter — average 4 prompts per session
+🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
 
 **I Mostly Code in JavaScript** 
@@ -212,7 +235,7 @@ C++                      1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Vimlesh-Kumar/Vimlesh-Kumar/main/assets/bar_graph.png)
 
 
- Last Updated on 26/07/2026 19:41:36 UTC
+ Last Updated on 27/07/2026 20:02:12 UTC
 <!--END_SECTION:waka-->
 
 ---
