@@ -148,9 +148,9 @@ graph TD
 _(Auto-updated daily via GitHub Actions)_
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-49%20hrs%2035%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-55%20hrs%2040%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-27%20hrs%2032%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-33%20hrs%2033%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -185,37 +185,40 @@ Sunday                   166 commits         █████░░░░░░�
 
 ```text
 💬 Programming Languages: 
-JavaScript               1 hr 17 mins        ██████████████░░░░░░░░░░░   55.15 % 
-Markdown                 40 mins             ███████░░░░░░░░░░░░░░░░░░   28.72 % 
-Other                    10 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.55 % 
-Bash                     6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.30 % 
-YAML                     4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.34 % 
+JavaScript               4 hrs 26 mins       ████████████░░░░░░░░░░░░░   49.24 % 
+Markdown                 53 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.85 % 
+Other                    47 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.75 % 
+Bash                     43 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.09 % 
+JSON                     41 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.63 % 
 
 🔥 Editors: 
-Claude Code              1 hr 40 mins        ██████████████████░░░░░░░   71.33 % 
-VS Code                  40 mins             ███████░░░░░░░░░░░░░░░░░░   28.67 % 
+Claude Code              4 hrs 13 mins       ████████████░░░░░░░░░░░░░   46.67 % 
+Antigravity IDE          2 hrs 32 mins       ███████░░░░░░░░░░░░░░░░░░   28.22 % 
+VS Code                  2 hrs 16 mins       ██████░░░░░░░░░░░░░░░░░░░   25.11 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 1 hr 54 mins (81.0%)
+⏱ AI Coding Time: 7 hrs 55 mins (87.61%)
 
-✍️ 0 lines written by AI, 29 lines written by hand (0.0% AI-written)
+✍️ 1,164 lines written by AI, 59 lines written by hand (95.18% AI-written)
 
-🔤 347,118 Input Tokens, 102,137 Output Tokens
+🔤 896,934 Input Tokens, 306,120 Output Tokens
 
-💵 $9.68 Estimated AI Cost This Week
+💵 $29.64 Estimated AI Cost This Week
 
-🧠 3 AI Sessions, 23 AI Prompts
+🧠 13 AI Sessions, 107 AI Prompts
 
-Opus                     0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Sonnet                   716 lines           ██████████████░░░░░░░░░░░   57.51 % 
+Gemini                   399 lines           ████████░░░░░░░░░░░░░░░░░   32.05 % 
+Opus                     130 lines           ███░░░░░░░░░░░░░░░░░░░░░░   10.44 % 
 
 🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 0.0% of written lines came from AI
-📄 Detailed Prompter — average 770 characters per prompt
+🤖 AI-Driven — 95.18% of written lines came from AI
+📄 Detailed Prompter — average 690 characters per prompt
 🔁 Iterative Prompter — average 8 prompts per session
-🔍 Hands-On Reviewer — 100.0% of changed lines were hand-edited
+🚀 High AI Trust — 5.54% of changed lines were hand-edited
 ```
 
 **I Mostly Code in JavaScript** 
@@ -235,7 +238,7 @@ C++                      1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Vimlesh-Kumar/Vimlesh-Kumar/main/assets/bar_graph.png)
 
 
- Last Updated on 23/08/2026 18:54:11 UTC
+ Last Updated on 24/08/2026 19:08:22 UTC
 <!--END_SECTION:waka-->
 
 ---
