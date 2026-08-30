@@ -185,40 +185,40 @@ Sunday                   166 commits         █████░░░░░░�
 
 ```text
 💬 Programming Languages: 
-JavaScript               4 hrs 30 mins       ████████████░░░░░░░░░░░░░   49.18 % 
-Markdown                 54 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.85 % 
-Other                    47 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.64 % 
-Bash                     43 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.99 % 
-JSON                     42 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.72 % 
+JavaScript               3 hrs 6 mins        ███████████░░░░░░░░░░░░░░   45.67 % 
+Other                    47 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.54 % 
+JSON                     42 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.39 % 
+Bash                     37 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.27 % 
+HTML                     23 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.76 % 
 
 🔥 Editors: 
-Claude Code              4 hrs 18 mins       ████████████░░░░░░░░░░░░░   47.13 % 
-Antigravity IDE          2 hrs 32 mins       ███████░░░░░░░░░░░░░░░░░░   27.87 % 
-VS Code                  2 hrs 17 mins       ██████░░░░░░░░░░░░░░░░░░░   25.01 % 
+Claude Code              2 hrs 37 mins       ██████████░░░░░░░░░░░░░░░   38.74 % 
+Antigravity IDE          2 hrs 32 mins       █████████░░░░░░░░░░░░░░░░   37.52 % 
+VS Code                  1 hr 36 mins        ██████░░░░░░░░░░░░░░░░░░░   23.74 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 8 hrs 1 min (87.66%)
+⏱ AI Coding Time: 6 hrs 6 mins (89.97%)
 
-✍️ 1,313 lines written by AI, 61 lines written by hand (95.56% AI-written)
+✍️ 1,313 lines written by AI, 32 lines written by hand (97.62% AI-written)
 
-🔤 952,646 Input Tokens, 322,867 Output Tokens
+🔤 605,528 Input Tokens, 220,730 Output Tokens
 
-💵 $30.58 Estimated AI Cost This Week
+💵 $20.90 Estimated AI Cost This Week
 
-🧠 14 AI Sessions, 109 AI Prompts
+🧠 11 AI Sessions, 86 AI Prompts
 
 Sonnet                   865 lines           ████████████████░░░░░░░░░   62.05 % 
 Gemini                   399 lines           ███████░░░░░░░░░░░░░░░░░░   28.62 % 
 Opus                     130 lines           ██░░░░░░░░░░░░░░░░░░░░░░░   09.33 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 95.56% of written lines came from AI
-📄 Detailed Prompter — average 709 characters per prompt
+🤖 AI-Driven — 97.62% of written lines came from AI
+📄 Detailed Prompter — average 693 characters per prompt
 🔁 Iterative Prompter — average 8 prompts per session
-🚀 High AI Trust — 5.11% of changed lines were hand-edited
+🚀 High AI Trust — 2.86% of changed lines were hand-edited
 ```
 
 **I Mostly Code in JavaScript** 
@@ -238,7 +238,7 @@ C++                      1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Vimlesh-Kumar/Vimlesh-Kumar/main/assets/bar_graph.png)
 
 
- Last Updated on 29/08/2026 21:02:25 UTC
+ Last Updated on 30/08/2026 21:17:23 UTC
 <!--END_SECTION:waka-->
 
 ---
