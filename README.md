@@ -185,38 +185,34 @@ Sunday                   166 commits         █████░░░░░░�
 
 ```text
 💬 Programming Languages: 
-YAML                     40 mins             ███████░░░░░░░░░░░░░░░░░░   27.38 % 
-Markdown                 39 mins             ███████░░░░░░░░░░░░░░░░░░   26.44 % 
-Bash                     31 mins             █████░░░░░░░░░░░░░░░░░░░░   21.20 % 
-Git Config               21 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.86 % 
-Other                    11 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.56 % 
+Markdown                 31 mins             █████████████░░░░░░░░░░░░   53.52 % 
+Bash                     25 mins             ███████████░░░░░░░░░░░░░░   43.02 % 
+Python                   2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.45 % 
 
 🔥 Editors: 
-Claude Code              1 hr 16 mins        █████████████░░░░░░░░░░░░   51.86 % 
-Antigravity IDE          58 mins             ██████████░░░░░░░░░░░░░░░   39.31 % 
-VS Code                  13 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.83 % 
+Antigravity IDE          58 mins             █████████████████████████   98.14 % 
+VS Code                  1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.86 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 2 hrs 24 mins (97.6%)
+⏱ AI Coding Time: 56 mins (95.5%)
 
-✍️ 48 lines written by AI, 0 lines written by hand (100.0% AI-written)
+✍️ 27 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 165,680 Input Tokens, 33,824 Output Tokens
+🔤 0 Input Tokens, 0 Output Tokens
 
-💵 $2.36 Estimated AI Cost This Week
+💵 $0.00 Estimated AI Cost This Week
 
-🧠 4 AI Sessions, 30 AI Prompts
+🧠 2 AI Sessions, 9 AI Prompts
 
-Gemini                   27 lines            ██████████████░░░░░░░░░░░   56.25 % 
-Sonnet                   21 lines            ███████████░░░░░░░░░░░░░░   43.75 % 
+Gemini                   27 lines            █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.0% of written lines came from AI
-📝 Concise Prompter — average 417 characters per prompt
-🔁 Iterative Prompter — average 8 prompts per session
+📄 Detailed Prompter — average 1,149 characters per prompt
+🔁 Iterative Prompter — average 4 prompts per session
 🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
 
@@ -237,7 +233,7 @@ Shell                    1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Vimlesh-Kumar/Vimlesh-Kumar/main/assets/bar_graph.png)
 
 
- Last Updated on 14/09/2026 21:56:51 UTC
+ Last Updated on 15/09/2026 21:33:30 UTC
 <!--END_SECTION:waka-->
 
 ---
