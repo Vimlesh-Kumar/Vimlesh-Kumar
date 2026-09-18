@@ -185,35 +185,35 @@ Sunday                   166 commits         █████░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Markdown                 31 mins             █████████████░░░░░░░░░░░░   53.52 % 
-Bash                     25 mins             ███████████░░░░░░░░░░░░░░   43.02 % 
-Python                   2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.45 % 
+Bash                     18 mins             █████████████████████████   99.36 % 
+Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.64 % 
 
 🔥 Editors: 
-Antigravity IDE          58 mins             █████████████████████████   98.14 % 
-VS Code                  1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.86 % 
+Antigravity IDE          18 mins             █████████████████████████   99.36 % 
+VS Code                  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.41 % 
+Claude Code              0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.24 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 56 mins (95.5%)
+⏱ AI Coding Time: 18 mins (100.0%)
 
-✍️ 27 lines written by AI, 0 lines written by hand (100.0% AI-written)
+✍️ 0 lines written by AI, 0 lines written by hand (0% AI-written)
 
-🔤 0 Input Tokens, 0 Output Tokens
+🔤 13,480 Input Tokens, 571 Output Tokens
 
-💵 $0.00 Estimated AI Cost This Week
+💵 $0.05 Estimated AI Cost This Week
 
-🧠 2 AI Sessions, 9 AI Prompts
+🧠 2 AI Sessions, 5 AI Prompts
 
-Gemini                   27 lines            █████████████████████████   100.00 % 
+Sonnet                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 100.0% of written lines came from AI
-📄 Detailed Prompter — average 1,149 characters per prompt
-🔁 Iterative Prompter — average 4 prompts per session
-🚀 High AI Trust — 0.0% of changed lines were hand-edited
+🧑‍💻 Mostly Hands-On — 0% of written lines came from AI
+📝 Concise Prompter — average 148 characters per prompt
+🔁 Iterative Prompter — average 2 prompts per session
+🚀 High AI Trust — 0% of changed lines were hand-edited
 ```
 
 **I Mostly Code in JavaScript** 
@@ -233,7 +233,7 @@ Shell                    1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Vimlesh-Kumar/Vimlesh-Kumar/main/assets/bar_graph.png)
 
 
- Last Updated on 17/09/2026 21:33:06 UTC
+ Last Updated on 18/09/2026 21:03:55 UTC
 <!--END_SECTION:waka-->
 
 ---
