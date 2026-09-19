@@ -185,19 +185,17 @@ Sunday                   166 commits         █████░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Bash                     18 mins             █████████████████████████   99.36 % 
-Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.64 % 
+Other                    0 secs              █████████████████████████   100.00 % 
 
 🔥 Editors: 
-Antigravity IDE          18 mins             █████████████████████████   99.36 % 
-VS Code                  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.41 % 
-Claude Code              0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.24 % 
+VS Code                  0 secs              ████████████████░░░░░░░░░   63.00 % 
+Claude Code              0 secs              █████████░░░░░░░░░░░░░░░░   37.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 18 mins (100.0%)
+⏱ AI Coding Time: 0 secs (100.0%)
 
 ✍️ 0 lines written by AI, 0 lines written by hand (0% AI-written)
 
@@ -205,14 +203,14 @@ Claude Code              0 secs              ░░░░░░░░░░░�
 
 💵 $0.05 Estimated AI Cost This Week
 
-🧠 2 AI Sessions, 5 AI Prompts
+🧠 1 AI Sessions, 1 AI Prompts
 
 Sonnet                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🧑‍💻 Mostly Hands-On — 0% of written lines came from AI
-📝 Concise Prompter — average 148 characters per prompt
-🔁 Iterative Prompter — average 2 prompts per session
+📝 Concise Prompter — average 337 characters per prompt
+🎯 One-Shot Prompter — average 1 prompts per session
 🚀 High AI Trust — 0% of changed lines were hand-edited
 ```
 
@@ -233,7 +231,7 @@ Shell                    1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Vimlesh-Kumar/Vimlesh-Kumar/main/assets/bar_graph.png)
 
 
- Last Updated on 18/09/2026 21:03:55 UTC
+ Last Updated on 19/09/2026 20:52:29 UTC
 <!--END_SECTION:waka-->
 
 ---
