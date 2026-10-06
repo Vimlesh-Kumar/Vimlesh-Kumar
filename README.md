@@ -148,19 +148,19 @@ graph TD
 _(Auto-updated daily via GitHub Actions)_
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-58%20hrs%2011%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-60%20hrs%2027%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-36%20hrs%208%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-38%20hrs%2020%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.30%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.31%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 61.8 kB Used in GitHub's Storage 
+> 📦 62.0 kB Used in GitHub's Storage 
  > 
-> 🏆 322 Contributions in the Year 2026
+> 🏆 324 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -171,13 +171,13 @@ _(Auto-updated daily via GitHub Actions)_
 📅 **I'm Most Productive on Saturday** 
 
 ```text
-Monday                   57 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.79 % 
-Tuesday                  105 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.50 % 
-Wednesday                67 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.98 % 
-Thursday                 69 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.21 % 
-Friday                   87 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.36 % 
-Saturday                 289 commits         █████████░░░░░░░░░░░░░░░░   34.40 % 
-Sunday                   166 commits         █████░░░░░░░░░░░░░░░░░░░░   19.76 % 
+Monday                   57 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.76 % 
+Tuesday                  108 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.81 % 
+Wednesday                67 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.95 % 
+Thursday                 69 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.19 % 
+Friday                   87 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.32 % 
+Saturday                 289 commits         █████████░░░░░░░░░░░░░░░░   34.28 % 
+Sunday                   166 commits         █████░░░░░░░░░░░░░░░░░░░░   19.69 % 
 ```
 
 
@@ -185,36 +185,38 @@ Sunday                   166 commits         █████░░░░░░�
 
 ```text
 💬 Programming Languages: 
-JSON                     5 mins              ███████████████░░░░░░░░░░   61.06 % 
-JavaScript               2 mins              ████████░░░░░░░░░░░░░░░░░   33.20 % 
-Markdown                 0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   04.09 % 
-SQL                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.65 % 
+Vue                      51 mins             █████████░░░░░░░░░░░░░░░░   36.06 % 
+nvmrc                    30 mins             █████░░░░░░░░░░░░░░░░░░░░   21.00 % 
+TypeScript               15 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.06 % 
+JavaScript               15 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.94 % 
+Bash                     15 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.46 % 
 
 🔥 Editors: 
-Claude Code              5 mins              ████████████████░░░░░░░░░   63.18 % 
-VS Code                  3 mins              █████████░░░░░░░░░░░░░░░░   36.82 % 
+Claude Code              1 hr 49 mins        ███████████████████░░░░░░   75.68 % 
+VS Code                  35 mins             ██████░░░░░░░░░░░░░░░░░░░   24.32 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 5 mins (64.06%)
+⏱ AI Coding Time: 2 hrs 17 mins (95.08%)
 
-✍️ 131 lines written by AI, 0 lines written by hand (100.0% AI-written)
+✍️ 4,331 lines written by AI, 21 lines written by hand (99.52% AI-written)
 
-🔤 80,721 Input Tokens, 16,981 Output Tokens
+🔤 923,785 Input Tokens, 438,143 Output Tokens
 
-💵 $0.92 Estimated AI Cost This Week
+💵 $26.58 Estimated AI Cost This Week
 
-🧠 1 AI Sessions, 1 AI Prompts
+🧠 4 AI Sessions, 13 AI Prompts
 
-Opus                     131 lines           █████████████████████████   100.00 % 
+Opus                     4,333 lines         █████████████████████████   100.00 % 
+Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 100.0% of written lines came from AI
-📝 Concise Prompter — average 66 characters per prompt
-🎯 One-Shot Prompter — average 1 prompts per session
-🚀 High AI Trust — 0.0% of changed lines were hand-edited
+🤖 AI-Driven — 99.52% of written lines came from AI
+📄 Detailed Prompter — average 659 characters per prompt
+🔁 Iterative Prompter — average 3 prompts per session
+🚀 High AI Trust — 0.51% of changed lines were hand-edited
 ```
 
 **I Mostly Code in JavaScript** 
@@ -234,7 +236,7 @@ Shell                    1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Vimlesh-Kumar/Vimlesh-Kumar/main/assets/bar_graph.png)
 
 
- Last Updated on 06/10/2026 00:12:48 UTC
+ Last Updated on 06/10/2026 22:43:49 UTC
 <!--END_SECTION:waka-->
 
 ---
