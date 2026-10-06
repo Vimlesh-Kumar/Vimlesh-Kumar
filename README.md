@@ -148,9 +148,9 @@ graph TD
 _(Auto-updated daily via GitHub Actions)_
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-58%20hrs%203%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-58%20hrs%2011%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-36%20hrs%203%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-36%20hrs%208%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -158,7 +158,7 @@ _(Auto-updated daily via GitHub Actions)_
 
 **🐱 My GitHub Data** 
 
-> 📦 61.7 kB Used in GitHub's Storage 
+> 📦 61.8 kB Used in GitHub's Storage 
  > 
 > 🏆 322 Contributions in the Year 2026
  > 
@@ -172,12 +172,12 @@ _(Auto-updated daily via GitHub Actions)_
 
 ```text
 Monday                   57 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.79 % 
-Tuesday                  104 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.40 % 
-Wednesday                67 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.99 % 
-Thursday                 69 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.22 % 
-Friday                   87 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.37 % 
-Saturday                 289 commits         █████████░░░░░░░░░░░░░░░░   34.45 % 
-Sunday                   166 commits         █████░░░░░░░░░░░░░░░░░░░░   19.79 % 
+Tuesday                  105 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.50 % 
+Wednesday                67 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.98 % 
+Thursday                 69 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.21 % 
+Friday                   87 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.36 % 
+Saturday                 289 commits         █████████░░░░░░░░░░░░░░░░   34.40 % 
+Sunday                   166 commits         █████░░░░░░░░░░░░░░░░░░░░   19.76 % 
 ```
 
 
@@ -185,16 +185,36 @@ Sunday                   166 commits         █████░░░░░░�
 
 ```text
 💬 Programming Languages: 
-No Activity Tracked This Week
+JSON                     5 mins              ███████████████░░░░░░░░░░   61.06 % 
+JavaScript               2 mins              ████████░░░░░░░░░░░░░░░░░   33.20 % 
+Markdown                 0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   04.09 % 
+SQL                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.65 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+Claude Code              5 mins              ████████████████░░░░░░░░░   63.18 % 
+VS Code                  3 mins              █████████░░░░░░░░░░░░░░░░   36.82 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-No AI Coding Activity Tracked This Week
+⏱ AI Coding Time: 5 mins (64.06%)
+
+✍️ 131 lines written by AI, 0 lines written by hand (100.0% AI-written)
+
+🔤 80,721 Input Tokens, 16,981 Output Tokens
+
+💵 $0.92 Estimated AI Cost This Week
+
+🧠 1 AI Sessions, 1 AI Prompts
+
+Opus                     131 lines           █████████████████████████   100.00 % 
+
+🔎 AI Coding Insights:
+🤖 AI-Driven — 100.0% of written lines came from AI
+📝 Concise Prompter — average 66 characters per prompt
+🎯 One-Shot Prompter — average 1 prompts per session
+🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
 
 **I Mostly Code in JavaScript** 
@@ -214,7 +234,7 @@ Shell                    1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Vimlesh-Kumar/Vimlesh-Kumar/main/assets/bar_graph.png)
 
 
- Last Updated on 04/10/2026 21:42:34 UTC
+ Last Updated on 06/10/2026 00:12:48 UTC
 <!--END_SECTION:waka-->
 
 ---
