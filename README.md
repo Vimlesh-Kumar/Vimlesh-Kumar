@@ -185,39 +185,38 @@ Sunday                   166 commits         █████░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Vue                      1 hr 40 mins        █████████░░░░░░░░░░░░░░░░   36.38 % 
-TypeScript               1 hr 20 mins        ███████░░░░░░░░░░░░░░░░░░   29.14 % 
-Markdown                 30 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.16 % 
-nvmrc                    30 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.97 % 
-Bash                     15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.47 % 
+TypeScript               1 hr 4 mins         ████████████░░░░░░░░░░░░░   46.01 % 
+Vue                      48 mins             █████████░░░░░░░░░░░░░░░░   34.55 % 
+Markdown                 24 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.53 % 
+JavaScript               1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.33 % 
+SQL                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.44 % 
 
 🔥 Editors: 
-Claude Code              3 hrs 34 mins       ███████████████████░░░░░░   77.62 % 
-VS Code                  1 hr 1 min          ██████░░░░░░░░░░░░░░░░░░░   22.38 % 
+Claude Code              1 hr 50 mins        ████████████████████░░░░░   78.84 % 
+VS Code                  29 mins             █████░░░░░░░░░░░░░░░░░░░░   21.16 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 4 hrs 15 mins (92.62%)
+⏱ AI Coding Time: 2 hrs 3 mins (88.46%)
 
-✍️ 4,242 lines written by AI, 22 lines written by hand (99.48% AI-written)
+✍️ 42 lines written by AI, 1 lines written by hand (97.67% AI-written)
 
-🔤 2,940,424 Input Tokens, 525,589 Output Tokens
+🔤 2,097,360 Input Tokens, 104,427 Output Tokens
 
-💵 $45.72 Estimated AI Cost This Week
+💵 $20.12 Estimated AI Cost This Week
 
-🧠 4 AI Sessions, 30 AI Prompts
+🧠 1 AI Sessions, 18 AI Prompts
 
-Opus                     4,207 lines         █████████████████████████   99.13 % 
-Sonnet                   37 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   00.87 % 
-Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Sonnet                   37 lines            █████████████████░░░░░░░░   66.07 % 
+Opus                     19 lines            ████████░░░░░░░░░░░░░░░░░   33.93 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.48% of written lines came from AI
-📚 Verbose Prompter — average 5,331 characters per prompt
-🔁 Iterative Prompter — average 8 prompts per session
-🚀 High AI Trust — 0.54% of changed lines were hand-edited
+🤖 AI-Driven — 97.67% of written lines came from AI
+📚 Verbose Prompter — average 8,413 characters per prompt
+🔁 Iterative Prompter — average 18 prompts per session
+🚀 High AI Trust — 2.33% of changed lines were hand-edited
 ```
 
 **I Mostly Code in JavaScript** 
@@ -237,7 +236,7 @@ Shell                    1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Vimlesh-Kumar/Vimlesh-Kumar/main/assets/bar_graph.png)
 
 
- Last Updated on 13/10/2026 00:53:11 UTC
+ Last Updated on 13/10/2026 22:58:28 UTC
 <!--END_SECTION:waka-->
 
 ---
